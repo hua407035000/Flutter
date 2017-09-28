@@ -1,2 +1,2 @@
-# -primaryAndroid
+# 第一次尝试使用
 2017-02-10 begin
